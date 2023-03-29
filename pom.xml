@@ -64,7 +64,7 @@
 
 	<build>
 		<finalName>ROOT</finalName>
-		<finalName>spring-deployment-demo</finalName>
+<!--		<finalName>spring-deployment-demo</finalName>-->
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
